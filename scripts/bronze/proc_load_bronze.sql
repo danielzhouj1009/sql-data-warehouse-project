@@ -18,7 +18,7 @@ Usage Example:
 */
 
 
--- Bulk upload csv tables and save as a procedure. Also the procude displayed the running time and errors if any
+-- Bulk upload csv tables and save as a procedure. Also the procedure displayed the running time and errors if any
 
 CREATE OR ALTER PROCEDURE bronze.load_bronze AS 
 BEGIN
